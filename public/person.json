@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Xi Jinping",
+    "nationality": "China",
+    "gender": "Male",
+    "age": 73,
+    "salary": 779,
+    "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5aecccdf31358e612fb80afa%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1234%26cropX2%3D3554%26cropY1%3D348%26cropY2%3D2667"
+  },
+  {
+    "id": 2,
+    "name": "Vladimir Putin",
+    "nationality": "Russia",
+    "gender": "Male",
+    "age": 68,
+    "salary": 678,
+    "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5aecc9a84bbe6f748688434d%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D271%26cropX2%3D1742%26cropY1%3D321%26cropY2%3D1791"
+  },
+  {
+    "id": 3,
+    "name": "Bill Gates",
+    "nationality": " United States",
+    "gender": "Male",
+    "age": 70,
+    "salary": 975,
+    "img": "https://yt3.ggpht.com/KyXAUjlAH_yiPIv9g8H_0dpP1_iRIqFiKudBzLHhyBhKQ65OgqHJQPz5MB9Dy-Gm0MOUlHcxjg=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": 4,
+    "name": "Joe Biden",
+    "nationality": "United States",
+    "gender": "Male",
+    "age": 78,
+    "salary": 689,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqTHYpq7XIymtYWPjJJcQAW_qMbW-OLyZOL8wtPz9XUe7Xaweq&s"
+  },
+  {
+    "id": 5,
+    "name": "Angela Merkel",
+    "nationality": "Germany",
+    "gender": "Female",
+    "age": 67,
+    "salary": 367,
+    "img": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/07/22/130308.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mohammed bin Salman",
+    "nationality": "Saudi Arabian",
+    "gender": "Male",
+    "age": 36,
+    "salary": 560,
+    "img": "https://cdn.britannica.com/43/207843-050-792E9358/Mohammed-bin-Salman-policy-maker-Saudi-king-2015.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Narendra Modi",
+    "nationality": "Indian",
+    "gender": "Male",
+    "age": 71,
+    "salary": 460,
+    "img": "https://leadership.ng/wp-content/uploads/2021/05/unnamed-1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Pope Francis",
+    "nationality": "Argentine",
+    "gender": "Male",
+    "age": 84,
+    "salary": 260,
+    "img": "https://catholicclimatemovement.global/wp-content/uploads/2021/05/pope-francis-angelus-stock-copyright-Mazur-catholicnews-org-uk-700x467.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Larry Page",
+    "nationality": "American",
+    "gender": "Male",
+    "age": 48,
+    "salary": 466,
+    "img": "https://www.biography.com/.image/t_share/MTc5ODc2NTUzODU1ODcwOTY1/gettyimages-83414114.jpg"
+  }
+]

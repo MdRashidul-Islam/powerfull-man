@@ -1,0 +1,33 @@
+.user-info img{
+  border-radius: 50%;
+}
+.user-info{
+  border: 2px solid gray;
+  border-radius: 5px;
+  padding: 20px;
+  line-height: 10px;
+  background-color: whitesmoke;
+}
+.user-info:hover{
+  border: 2px solid rgb(5, 140, 230);
+  background-color: white;
+  transition: 0.5s;
+}
+.user-info button{
+  padding: 10px 35px;
+  font-size: 16px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: 0.3s;
+ 
+}
+.user-info button:hover{
+  padding: 10px 35px;
+  font-size: 16px;
+  border: 1px solid rgb(5, 140, 230);
+  background-color: rgb(5, 140, 230);
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+}

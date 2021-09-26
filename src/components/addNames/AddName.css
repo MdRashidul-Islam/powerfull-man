@@ -1,0 +1,10 @@
+.name-field{
+  text-align: start;
+  padding-left: 30px;
+ 
+}
+.name-field h5{
+  font-size: 18px;
+  color: gray;
+  font-family:poppins;
+}

@@ -1,0 +1,29 @@
+.container{
+  display: flex;
+  background-color: whitesmoke;
+}
+.user-box{
+  width: 80%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap:10px;
+  padding: 30px;
+}
+.add-user{
+  width: 20%;
+  padding: 30px;
+}
+.icon{
+  display: flex;
+  justify-content: space-evenly;
+}
+.name-container{
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding-right: 10px ;
+  box-shadow: 10px 10px 500px;
+}
+.name-container h2{
+  text-align: start;
+  padding-left: 30px;
+}
