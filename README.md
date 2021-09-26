@@ -1,6 +1,6 @@
 # POWERFULL MAN IN THE WORLD
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My first React project (https://peaceful-nobel-1f39f0.netlify.app/).
 
 ## Available Scripts
 THIS SITE MADE BY
