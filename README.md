@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+# POWERFULL MAN IN THE WORLD
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+THIS SITE MADE BY
+1.REACT
+2.CSS
+3.BOOTSTRAP FRAMEWORK
+4.USE ICON WITH FONT AWESOME
 
 In the project directory, you can run:
 
